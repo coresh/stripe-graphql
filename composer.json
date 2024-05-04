@@ -4,8 +4,8 @@
     "type": "magento2-module",
     "require": {
         "magento/magento2-base": "*",
-        "stripe/stripe-payments": "*",
-        "stripe/module-payments": "*"
+        "stripe/stripe-payments": "^4.0.0",
+        "stripe/module-payments": "^4.0.2"
     },
     "support": {
         "source": "https://github.com/scandipwa/",
